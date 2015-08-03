@@ -55,7 +55,7 @@ Now you can use the service via SEAS web service or console.
 
 You can go [here](http://demos.gsi.dit.upm.es/tomcat/SEAS/Controller) to see a demo and test the service.
 
-To access the API just send a POST request to http://localhost:8080/SAGAtoNIF/Service or to http://localhost:8080/RestrictedToNIF/RestrictedService OR http://demos.gsi.dit.upm.es/tomcat/SAGAtoNIF/Service or to http://demos.gsi.dit.upm.es/tomcat/RestrictedToNIF/RestrictedService with these parameters:
+To access the API just send a POST request to http://localhost:8080/SAGAtoNIF/Service or to http://localhost:8080/RestrictedToNIF/RestrictedService OR http://demos.gsi.dit.upm.es/tomcat/SAGAtoNIF/Service or to http://demos.gsi.dit.upm.es/tomcat/RestrictedToNIF/RestrictedService with the following parameters:
 
     input:
         The original text to be analyzed
